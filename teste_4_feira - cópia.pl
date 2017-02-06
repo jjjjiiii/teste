@@ -1,4 +1,10 @@
-%produto(#nome_prduto, #categoria).
+% ivo.te@gmail.com
+ % company of ruicosta981@xx.pt%bem vindo aqui e ali
+ % s ério muorlkd ivo.e@hotmailc.om
+ 
+
+
+produto(#nome_prduto, #categoria).
 %existencia(#nome_produto, #quantidade, #preço_custo_unitario, #tempo_de_deterioração   )
 produto(macas, fruta).
 produto(laranjas, fruta).
